@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content {
+    position: static;
+    background-color: #A9D2EC;
+}
+tbody tr td {
+    background-image: url(images/malefica-final-2_13.png);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: small;
+    text-align: center;
+    color: #000000;
+}
